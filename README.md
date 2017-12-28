@@ -7,7 +7,7 @@ Das Tanken-Modul integriert die Preise der billigsten Tankstellen ins glancr mir
 
 * Tankerkoenig.de API-Key ([zum Tutorial](https://glancr.de/tutorials/das-tankenmodul-konfigurieren/))
 * Raspberry mit installiertem [mirrOS](https://glancr.de/mirr-os/)
-
+* Deine LAT/LNG Koordinaten (z.B. von [hier](http://www.gps-coordinates.net/gps-coordinates-converter))
 
 ## Download
 
